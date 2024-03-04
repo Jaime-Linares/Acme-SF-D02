@@ -1,5 +1,5 @@
 
-package acme.entities.sponsorShip;
+package acme.entities.sponsorship;
 
 import java.util.Date;
 
@@ -27,7 +27,7 @@ import lombok.Setter;
 @Entity
 @Getter
 @Setter
-public class SponsorShip extends AbstractEntity {
+public class Sponsorship extends AbstractEntity {
 
 	// Serialisation identifier ----------------------------------------------
 
