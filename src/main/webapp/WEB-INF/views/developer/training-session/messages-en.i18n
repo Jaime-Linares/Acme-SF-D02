@@ -1,0 +1,33 @@
+developer.training-session.list.title = My training sessions
+developer.training-session.form.title = Training session form:
+
+developer.trainingSession.list.label.code = Code:
+developer.trainingSession.list.label.location = Location:
+developer.trainingSession.list.label.instructor = Instructor:
+
+developer.trainingSession.list.button.create = Create
+
+developer.trainingSession.form.label.code = Code:
+developer.trainingSession.form.label.startPeriod = Start of the period:
+developer.trainingSession.form.label.endPeriod = End of the period:
+developer.trainingSession.form.label.location = Location:
+developer.trainingSession.form.label.instructor = Instructor:
+developer.trainingSession.form.label.contactEmail = Contact email:
+developer.trainingSession.form.label.link = Link for further information: (Optional)
+developer.trainingSession.form.label.published = Published
+developer.trainingSession.form.label.trainingModuleCode = Training module's code:
+
+developer.trainingSession.form.button.create = Create
+developer.trainingSession.form.button.delete = Delete
+developer.trainingSession.form.button.update = Update
+developer.trainingSession.form.button.publish = Publish
+
+developer.trainingSession.form.error.duplicated = This code is already in use
+developer.trainingSession.form.error.startPeriod = The start of the period cannot be null
+developer.trainingSession.form.error.endPeriodAfter = The end of the period must occur after the start
+developer.trainingSession.form.error.noEndPeriod = The end of the period cannot be null
+developer.trainingSession.form.error.location = The location must be under 75 characters
+developer.trainingSession.form.error.instructor = The instructor must be under 75 characters
+developer.trainingSession.form.error.contactEmail = The contact email must be under 255 characters
+developer.trainingSession.form.error.link = The link must be under 255 characters
+
